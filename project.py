@@ -1,5 +1,5 @@
 print('Hello, world!')
 print('Hello, world2!')
 print('Hello, world3!')
-print('Hello, world from fast-forward-merge branch!')
+print('Hello, world from feature1 branch!')
 
